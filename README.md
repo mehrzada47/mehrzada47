@@ -1,6 +1,6 @@
-<div align="center>### Hi I'm Amir Mehrzad 👋</div>
+<div align="center"> Hi I'm Amir Mehrzad 👋</div>
 <hr>
-<div align="center>A Software Engineering Student</div>
+<div align="center">A Software Engineering Student</div><br>
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=mehrzada47&style=flat-square&color=blue" alt=""/>
@@ -13,6 +13,25 @@
     <img src="https://img.shields.io/badge/instagram-red?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram Badge"/>
   </a>
 </div>
+
+### :hammer_and_wrench: Languages and Tools :
+
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" title="Git" **alt="Git" width="40" height="40"/>
+</div>
+
+
+### :fire: My Stats :
+
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mehrzada47&theme=dark&background=000000)](https://git.io/streak-stats)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mehrzada47&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
