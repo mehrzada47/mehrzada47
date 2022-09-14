@@ -1,4 +1,10 @@
-### Hi I'm Amir Mehrzad 👋
+<div align="center>### Hi I'm Amir Mehrzad 👋</div>
+<hr>
+<div align="center>A Software Engineering Student</div>
+
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=mehrzada47&style=flat-square&color=blue" alt=""/>
+</div>
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
@@ -7,9 +13,7 @@
     <img src="https://img.shields.io/badge/instagram-red?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram Badge"/>
   </a>
 </div>
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=mehrzada47&style=flat-square&color=blue" alt=""/>
-</div>
+
 
 
 <!--
