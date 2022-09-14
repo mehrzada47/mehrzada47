@@ -7,8 +7,10 @@
     <img src="https://img.shields.io/badge/instagram-red?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram Badge"/>
   </a>
 </div>
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=mehrzada47&style=flat-square&color=blue" alt=""/>
+</div>
 
-<img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
 
 <!--
 **mehrzada47/mehrzada47** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
